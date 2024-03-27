@@ -1,4 +1,4 @@
-package commands;
+package Shaigaliev.cryptoanalyzer.commands;
 
 public class Decoder implements Action{
     @Override
